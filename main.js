@@ -1,6 +1,6 @@
 const questions = [
     {
-        question: "Siapa ibu kota negara indonesia?",
+        question: "Dimana ibu kota negara indonesia?",
         answer: 
         [
             {
